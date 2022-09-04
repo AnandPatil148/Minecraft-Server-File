@@ -1,4 +1,4 @@
-# Minecraft-Server-File
+# Minecraft server file to git clone in command line
 Download server.jar and run it with the following command:
 
 java -Xmx1024M -Xms1024M -jar server.jar nogui
